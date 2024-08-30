@@ -1,0 +1,35 @@
+nav{
+    background:rgba(28, 28, 28, 0.2);
+}
+
+.banner{
+    height: 80vh;
+    background-image: url('./banner1.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: top left;
+    display: flex;
+    align-items: flex-start;
+    flex-direction: column;
+    justify-content: center;
+    
+    
+}
+.heading-1{
+    font-family: "Roboto", sans-serif;
+    font-size: 44px;
+    font-weight: 600;
+    line-height: 56px;
+    width: 40%;
+    padding-left: 80px;
+    color: #ffff;
+}
+.btn-1{
+    margin-left: 80px;
+    margin-top: 60px;
+    background-color: #ffff;
+    padding: 10px 40px;
+    color: rgba(254, 0, 0, 1);
+    font-family: "Roboto", sans-serif;
+    font-weight: 600;
+}
