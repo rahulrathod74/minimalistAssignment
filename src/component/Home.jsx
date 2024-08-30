@@ -10,6 +10,7 @@ const Home = () => {
       {/* <img src="banner1.jpg" alt="" class="h-[30%] relative" /> */}
       <h2 className='heading-1'>The choice is yours. <span class="block w-[108%]">Because they don’t have one.</span> </h2>
       <button className='btn-1'>QUICK VIEW</button>
+
     </div>
     
     </>
