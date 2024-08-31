@@ -1,0 +1,36 @@
+.heading-2 {
+  font-size: 32px;
+  color: rgba(242, 113, 33, 1);
+  font-family: "Roboto", sans-serif;
+  font-weight: 600;
+}
+
+.main-card {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap:100px;
+  
+}
+.card {
+  width: 584px;
+  border: 1px solid black;
+  padding: 5px;
+}
+.card img {
+  width: 100%;
+}
+
+.card-2{
+    display: flex;
+    margin-top: 10px;
+    align-items: center;
+}
+.btn-2{
+    width: 200px;
+    background-color:rgba(254, 0, 0, 1);
+    color:#fff ;
+    font-family: "Roboto", sans-serif;
+    font-weight: 600;
+    padding: 5px 10px;
+}

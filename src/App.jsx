@@ -4,6 +4,9 @@ import viteLogo from '/vite.svg'
 import './App.css'
 import Home from './component/Home'
 import About from './component/About'
+import Products from './component/Products'
+import Footer from './component/Footer'
+import PopupForm from './component/PopupForm'
 
 function App() {
   
@@ -12,6 +15,9 @@ function App() {
     <>
      <Home/>
      <About/>
+     <Products/>
+     <Footer/>
+     <PopupForm/>
     </>
   )
 }

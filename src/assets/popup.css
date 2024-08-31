@@ -1,0 +1,85 @@
+.pop-main{
+    display: flex;
+    justify-content: space-between;
+    gap: 20px;
+}
+.pop-main > div:first-child{
+    width: 53%;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+.pop-main > div:first-child > .sub-img-div{
+    display: flex;
+    justify-content: space-between;
+}
+.pop-main > div:first-child > .sub-img-div > .img-div{
+    width: 120px;
+}
+
+.headpin > h1{
+    font-size: 28px;
+    font-family: "Roboto",sans-serif;
+    font-weight: 400;
+}
+.headpin > p{
+    font-size: 24px;
+    font-family: "Roboto",sans-serif;
+    font-weight: 400;
+}
+.headpin >img{
+    margin-top: 20px;
+}
+.headpin > h2{
+    font-size: 28px;
+    font-family: "Roboto",sans-serif;
+    font-weight: 600;
+}
+.headpin-2  h2{
+    font-size: 12px;
+    font-family: "Roboto",sans-serif;
+    font-weight: 600;
+}
+.headpin-2  p{
+    font-size: 12px;
+    font-family: "Roboto",sans-serif;
+    font-weight: 400;
+}
+.headpin-2 >img{
+    margin-top: 20px;
+}
+.headpin-3 >h2{
+    font-size: 12px;
+    font-family: "Roboto",sans-serif;
+    font-weight: 600;
+}
+.headpin-3 > p{
+    font-size: 12px;
+    font-family: "Roboto",sans-serif;
+    font-weight: 400;
+}
+.headpin-3 >img{
+    margin-top: 20px;
+}
+
+.headpin-3 >h2{
+    font-size: 12px;
+    font-family: "Roboto",sans-serif;
+    font-weight: 600;
+}
+.headpin-3 >p{
+    font-size: 12px;
+    font-family: "Roboto",sans-serif;
+    font-weight: 400;
+}
+
+.choose{
+    padding: 10px 120px;
+    background-color: rgba(254, 0, 0, 1);
+    margin-top: 60px;
+    font-size: 24px;
+    font-family: "Roboto",sans-serif;
+    font-weight: 600;
+    color: #fff;
+}
+

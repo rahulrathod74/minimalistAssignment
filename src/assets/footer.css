@@ -1,0 +1,19 @@
+.footer{
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+    background-color: rgba(37, 167, 105, 1);
+}
+
+.footer-head{
+    font-size: 48px;
+    font-weight: 700;
+    font-family: "Roboto",sans-serif;
+    color: rgba(236, 225, 76, 1);
+    ;
+}
+.social{
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+}
