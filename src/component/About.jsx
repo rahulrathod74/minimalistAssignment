@@ -5,7 +5,7 @@ import '../assets/about.css'
 const About = () => {
   return (
     <>
-    <div class="mt-28 flex justify-center gap-20 items-center">
+    <div  class="mt-28 flex justify-center gap-20 items-center max-sm" >
         <img src={linebar} alt="" class="w-[35%] h-2" />
         <h3 className='heading-2'>About</h3>
         <img src={linebar} alt="" class="w-[35%] h-2 " />
